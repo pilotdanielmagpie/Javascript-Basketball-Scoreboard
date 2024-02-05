@@ -1,0 +1,22 @@
+html {
+    background-color: #1D2D70;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+}
+
+div {
+    background-color: black;
+    color: red;
+    width: 20%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
